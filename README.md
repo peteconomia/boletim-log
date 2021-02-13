@@ -1,4 +1,4 @@
-# Boletim de Conjuntura do Tocantins
+# Histórico de Lançamentos do Boletim de Conjuntura do Tocantins
 
 > Boletim de Conjuntura do Tocantins é um trabalho realizado pelo Programa de Educação Tutorial (PET) do curso de Ciências Econômicas da Universidade Federal do Tocantins (UFT).
 
